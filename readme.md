@@ -111,7 +111,7 @@ If FFmpeg version details appear, you're good to go!
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone (https://github.com/ByAlphas/secure-media-archive.git)
 cd secure-media-archive
 
 # Install dependencies
